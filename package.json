@@ -1,8 +1,11 @@
 {
   "name": "kuntergrau",
   "displayName": "kuntergrau",
+  "author": "Fynn Path",
+  "publisher": "fnn",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/fnn/kuntergrau",
   "engines": {
     "vscode": "^1.75.0"
   },
