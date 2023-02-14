@@ -53,7 +53,8 @@
     "editorBracketHighlight.foreground6": "#00ffb75c"
   },
   "semanticTokenColors": {
-    "variable.local": "#53b2fffa",
+    "variable": "#53b2fffa",
+    "variable.defaultLibrary": "#f1f6feb3",
     "parameter": "#938ffffa",
     "interface": "#ffcc00e4",
     "type": "#ffcc00e4"
