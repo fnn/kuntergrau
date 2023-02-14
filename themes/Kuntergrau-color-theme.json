@@ -6,7 +6,7 @@
     "editor.foreground": "#f1f6feb3",
     "editor.lineHighlightBackground": "#ffffff0b",
     "editor.lineHighlightBorder": "#00000000",
-    "editorIndentGuide.activeBackground": "#03ffccc7",
+    "editorIndentGuide.activeBackground": "#febc8268",
     "editorIndentGuide.background": "#dde2fe31",
     "editorInfo.foreground": "#53b2fffa",
     "editorHint.foreground": "#03ffccc7",
@@ -45,12 +45,12 @@
     "titleBar.inactiveBackground": "#161618",
     "titleBar.border": "#dde2fe31",
 
-    "editorBracketHighlight.foreground1": "#00ffb75c",
-    "editorBracketHighlight.foreground2": "#00ffb75c",
-    "editorBracketHighlight.foreground3": "#00ffb75c",
-    "editorBracketHighlight.foreground4": "#00ffb75c",
-    "editorBracketHighlight.foreground5": "#00ffb75c",
-    "editorBracketHighlight.foreground6": "#00ffb75c"
+    "editorBracketHighlight.foreground1": "#febc8268",
+    "editorBracketHighlight.foreground2": "#febc8268",
+    "editorBracketHighlight.foreground3": "#febc8268",
+    "editorBracketHighlight.foreground4": "#febc8268",
+    "editorBracketHighlight.foreground5": "#febc8268",
+    "editorBracketHighlight.foreground6": "#febc8268"
   },
   "semanticTokenColors": {
     "variable": "#53b2fffa",
