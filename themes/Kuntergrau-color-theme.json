@@ -104,6 +104,13 @@
       "settings": {
         "foreground": "#938ffffa"
       }
+    },
+    {
+      "name": "Terminator",
+      "scope": ["punctuation.terminator"],
+      "settings": {
+        "foreground": "#e6f0ff7c"
+      }
     }
   ]
 }
