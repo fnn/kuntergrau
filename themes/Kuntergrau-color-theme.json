@@ -111,6 +111,13 @@
       "settings": {
         "foreground": "#e6f0ff7c"
       }
+    },
+    {
+      "name": "Control Flow",
+      "scope": ["keyword.control.flow"],
+      "settings": {
+        "foreground": "#ffbb7fd7"
+      }
     }
   ]
 }
