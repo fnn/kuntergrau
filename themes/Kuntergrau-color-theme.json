@@ -117,7 +117,7 @@
     },
     {
       "name": "Control Flow",
-      "scope": ["keyword.control.flow"],
+      "scope": ["keyword.control.flow", "storage.modifier.async"],
       "settings": {
         "foreground": "#ffbb7fd7"
       }
