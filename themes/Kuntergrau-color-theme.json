@@ -13,6 +13,9 @@
     "editorWarning.foreground": "#ffcc00e4",
     "editorError.foreground": "#ff7290fa",
 
+    "editorLineNumber.foreground": "#dbe5ff4b",
+    "editorLineNumber.activeForeground": "#e6f0ff7c",
+
     "statusBar.background": "#161618",
     "statusBar.border": "#dde2fe31",
 
