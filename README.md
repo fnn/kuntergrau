@@ -1,3 +1,3 @@
 # kuntergrau
 
-VS Code theme with the right amount of colors.
+VS Code theme I like (for my personal use).
