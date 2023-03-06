@@ -53,11 +53,11 @@
     "editorBracketHighlight.foreground6": "#82fedd68"
   },
   "semanticTokenColors": {
-    "function": "#ffcc00e4",
-    "method": "#ffcc00e4",
+    "function": "#938ffffa",
+    "method": "#938ffffa",
     "method.declaration": "#f1f6feb3",
     "variable": "#53a6fffa",
-    "parameter": "#938ffffa",
+    "parameter": "#ffcc00e4",
     "*.defaultLibrary": "#f1f6feb3",
     "*.attribute": "#a5f1b7c7"
   },
