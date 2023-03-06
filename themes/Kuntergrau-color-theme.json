@@ -59,7 +59,7 @@
     "variable": "#53a6fffa",
     "parameter": "#ffcc00e4",
     "*.defaultLibrary": "#f1f6feb3",
-    "*.attribute": "#a5f1b7c7"
+    "attributeBracket": "#e6f0ff7c"
   },
   "tokenColors": [
     {
